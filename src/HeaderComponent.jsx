@@ -6,7 +6,7 @@ const HeaderComponent = () => {
   return (
     <Navbar bg="primary" variant="dark">
       <Container>
-        <Navbar.Brand href="#">
+        <Navbar href="#">
           <img
             alt="Logo"
             src="/govco.png"
@@ -15,7 +15,7 @@ const HeaderComponent = () => {
             className="d-inline-block align-top"
           />{' '}
                       SuperIntendencia de Vigilancia
-        </Navbar.Brand>
+        </Navbar>
       </Container>
     </Navbar>
   );
