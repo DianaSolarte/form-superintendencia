@@ -201,6 +201,18 @@ const PrintForm = () => {
   document.querySelector('.table').classList.remove('print-hidden')
 
   setTableData((prevData) => [...prevData, newRow]);
+  
+  setFormData({
+    funcionario: '',
+    radicado: '',
+    name: '',
+    Asunto: '',
+    Descripcion: '',
+    Folio: '',
+    Anexo: '',
+    dependencia: '',
+    fechaHora: '',
+  });
 };
 
 
