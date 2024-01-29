@@ -31,6 +31,7 @@
     "caniuse-lite": "^1.0.30001579",
     "cfb": "^1.2.2",
     "chalk": "^2.4.2",
+    "chokidar": "^3.5.3",
     "classnames": "^2.5.1",
     "codepage": "^1.15.0",
     "color-convert": "^1.9.3",
