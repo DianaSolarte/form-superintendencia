@@ -24,3 +24,13 @@ dist-ssr
 *.sw?
 build/
  **/.git
+
+.npm/
+.yarn/
+.pnp.*
+.yarnrc
+yarn.lock
+.eslintcache
+.cache/
+dist/
+.vscode/

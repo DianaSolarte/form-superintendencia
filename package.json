@@ -31,6 +31,7 @@
     "caniuse-lite": "^1.0.30001579",
     "cfb": "^1.2.2",
     "chalk": "^2.4.2",
+    "chokidar": "^3.5.3",
     "classnames": "^2.5.1",
     "codepage": "^1.15.0",
     "color-convert": "^1.9.3",
@@ -85,7 +86,6 @@
     "form-data": "^4.0.0",
     "frac": "^1.1.2",
     "fs.realpath": "^1.0.0",
-    "fsevents": "^2.3.3",
     "function-bind": "^1.1.2",
     "function.prototype.name": "^1.1.6",
     "functions-have-names": "^1.2.3",
@@ -273,6 +273,7 @@
   "license": "ISC",
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "fsevents": "^2.3.3"
   }
 }
